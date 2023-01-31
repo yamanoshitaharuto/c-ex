@@ -1,8 +1,10 @@
 #include<iostream>
 int main() {
+	
+	int num ;
+	std::cin >> num;
 
-	int num = 28;
-	std::cout << "wol" << num << num << std::endl;
+	std::cout << "aka" << num << std::endl;
 
 	system("pause>0");
 }
